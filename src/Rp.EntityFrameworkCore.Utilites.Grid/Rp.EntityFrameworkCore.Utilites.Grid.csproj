@@ -1,8 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Nullable>enable</Nullable>
+		<IsPackable>true</IsPackable>
+		<PackageId>01J9NX09YZQNPWM4678PJJPFSM</PackageId>
+		<PackageVersion>0.1.0</PackageVersion>
+		<PackageProjectUrl>https://github.com/RezaPouya/Rp.EntityFrameworkCore.Utilites</PackageProjectUrl>
+		<Authors>Reza Pouya</Authors>
+		<AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+	</PropertyGroup>
 </Project>
